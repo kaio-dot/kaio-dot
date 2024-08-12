@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Resolvendo bugs desde 2023.<br>📚 Atualmente estou estudando Ciência da Computação.<br>🎯 Objetivos: Me destacar no cenário atual e ajudar os outros na vida tecnológica.<br></p>
+<p align="left">✨ Entusiasta de tecnologia desde criança.<br>📚 Estudante de Ciência da Computação no IFCE.<br></p>
 
 ###
 <h2 align="left">Eu programo em:</h2>
