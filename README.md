@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=kaio-dot&color=006bed)
 
-**Olá, me chamo Kaio Lyan👋**
+## Olá, me chamo Kaio Lyan👋
 
 ## Sobre mim
 
