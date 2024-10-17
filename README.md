@@ -1,10 +1,14 @@
 ![](https://komarev.com/ghpvc/?username=kaio-dot&color=006bed)
 
+**Olá, me chamo Kaio Lyan👋**
+
+
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Ciência da Computação no Instituto Federal do Ceará.
 - 🌱 Aprendendo mais sobre Java.
+- 😎 "Eu não sou um programador, sou um solucionador de problemas que usa códigos." - Donald Knuth
 
 ## Minhas Skills
 
