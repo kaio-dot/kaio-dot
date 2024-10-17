@@ -32,6 +32,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/kaio-lyan-151a1631b)](www.linkedin.com/in/kaio-lyan-151a1631b)
+[![Linkedin](https://img.shields.io/badge/-Kaio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/kaio-lyan-151a1631b)](www.linkedin.com/in/kaio-lyan-151a1631b)
 [![Gmail Badge](https://img.shields.io/badge/kaiolyan153@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaiolyan153@gmail.com)](mailto:kaiolyan153@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/kaio-dot)
