@@ -1,32 +1,37 @@
-<h1 align="left">Olá, como vai?👋</h1>
+![](https://komarev.com/ghpvc/?username=kaio-dot&color=006bed)
 
-###
+## Sobre mim
 
-<p align="left">Meu nome é Kaio Lyan, sou desenvolvedor back-end e moro em Ceará, Brasil.</p>
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando Ciência da Computação no Instituto Federal do Ceará.
+- 🌱 Aprendendo mais sobre Java.
 
-###
+## Minhas Skills
 
-<h2 align="left">Sobre Mim</h2>
+**Aplicações e dados**
 
-###
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-<p align="left">✨ Entusiasta de tecnologia desde criança.<br>📚 Estudante de Ciência da Computação no IFCE.<br></p>
 
-###
-<h2 align="left">Eu programo em:</h2>
 
-###
+**Ferramentas de desenvolvimento**
 
-<div align="left">
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />        
+<br/>
 
-###
+<a href="https://github.com/kaio-dot" title="Perfil do Kaio">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+</a>
 
-<div>
-<a href="https://github.com/kaio-dot">
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaio-dot&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/kaio-lyan-151a1631b)](www.linkedin.com/in/kaio-lyan-151a1631b)
+[![Gmail Badge](https://img.shields.io/badge/kaiolyan153@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaiolyan153@gmail.com)](mailto:kaiolyan153@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/kaio-dot)
