@@ -20,7 +20,7 @@
 </p>
 
 ------
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaio-dot&theme=tokyonight" alt="mystreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaio-dot&theme=tokyonight" alt="mystreak" align="center"/>
 
 
 <div align="center">
