@@ -20,8 +20,9 @@
 </p>
 
 ------
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaio-dot&theme=tokyonight" alt="mystreak" align="center"/>
-
+</p>
 
 <div align="center">
 <a href="www.linkedin.com/in/kaio-lyan-151a1631b" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
