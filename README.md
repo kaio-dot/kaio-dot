@@ -20,7 +20,6 @@
 </p>
 
 ------
-![Kaio-dot's github stats](https://github-readme-stats.vercel.app/api?username=kaio-dot&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaio-dot&theme=tokyonight" alt="mystreak"/>
 
 
