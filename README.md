@@ -1,5 +1,10 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
+<p align="center">
+  <img  src="https://i.imgur.com/t8U9Hif.gif" width="350">
+</p>
+
+
 ### Hello 🌎, I'm Kaio Lyan
 
 Hello, if you're reading this, welcome to my README.md, here I tell you a bit about myself!
